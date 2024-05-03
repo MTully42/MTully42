@@ -3,6 +3,12 @@ Cybersecurity Professional
 
 <h2>👨‍💻 **Cyber Security Projects:**</h2>
 
+
+
+
+
+
+
 <h3> **Certificates & Certifications**</h3>
 CompTIA Security + ― In process
 
