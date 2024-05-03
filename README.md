@@ -4,4 +4,12 @@ Cybersecurity Professional
 <h2>👨‍💻 **Cyber Security Projects:**</h2>
 
 <h3> **Certificates & Certifications**</h3>
-1. Google Cybersecurity Certificate
+CompTIA Security + ― In process
+
+Google Cybersecurity Professional Certificate
+
+Microsoft Cybersecurity Analyst Certificate ― In Process
+   
+THM SOC Level I Pathway
+ 
+
