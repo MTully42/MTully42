@@ -2,6 +2,7 @@
 Cybersecurity Professional
 
 <h2>👨‍💻 **Cyber Security Projects:**</h2>
+                                     >
 
 
 
@@ -9,7 +10,7 @@ Cybersecurity Professional
 
 
 
-<h3> **Certificates & Certifications**</h3>
+<h2> **Certificates & Certifications**</h2>
 CompTIA Security + ― In process
 
 Google Cybersecurity Professional Certificate
