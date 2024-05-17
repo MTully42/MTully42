@@ -11,7 +11,8 @@ My journey has taken many twists and turns. I have a broad view of the many topi
 
 |**Skill**                                         |**Associated Project**                               |
 |--------------------------------------------------|-----------------------------------------------------|
-|Cyber Security Audit Questions for Stakeholders                                                 |                                                     |
+|Cyber Security Audit Questions for Stakeholders   |                              
+                                                   |
 
 <h2>👨‍💻 **Cyber Security Projects:**</h2>
 
