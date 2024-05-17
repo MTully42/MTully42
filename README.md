@@ -9,6 +9,10 @@ My journey has taken many twists and turns. I have a broad view on the many topi
 
 <h2>**Skills:**</h2>
 
+|**Skill**                                         |**Associated Project**                               |
+|--------------------------------------------------|-----------------------------------------------------|
+|                                                 |                                                     |
+
 <h2>👨‍💻 **Cyber Security Projects:**</h2>
                                      >
 
