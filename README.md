@@ -11,10 +11,12 @@ My journey has taken many twists and turns. I have a broad view of the many topi
 
 |**Skill**                                         |**Associated Project**                               |
 |--------------------------------------------------|-----------------------------------------------------|
-|Cyber Security Audit                                                 |                                                     |
+|Cyber Security Audit Questions for Stakeholders                                                 |                                                     |
 
 <h2>👨‍💻 **Cyber Security Projects:**</h2>
-                                     >
+
+**1. GRC CIA Triad Protection Write-up** 
+                                     
 
 
 
@@ -24,7 +26,7 @@ My journey has taken many twists and turns. I have a broad view of the many topi
 
 <h2> **Certificates & Certifications:**</h2>
 
-The Definitive GRC Master Analyst Class Cerificate
+The Definitive GRC Master Analyst Class Certificate
 
 Cyber Security Governance, Risk, and Compliance (GRC) Mastery Certificate
 
