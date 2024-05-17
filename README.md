@@ -1,6 +1,5 @@
 <h1>Hi, I'm Michael Tully!!! </h1>
-a href="https://linkedin.com/in/michael-c-tully"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+"https://linkedin.com/in/michael-c-tully"
 <h2>👨‍💻 **Cyber Security Projects:**</h2>
                                      >
 
