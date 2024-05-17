@@ -17,6 +17,10 @@ My journey has taken many twists and turns. I have a broad view on the many topi
 
 <h2> **Certificates & Certifications**</h2>
 
+The Definitive GRC Master Analyst Class Cerificate
+
+Cyber Security Governance, Risk, and Compliance (GRC) Mastery Certificate
+
 CompTIA Security + ― In process
 
 Google Cybersecurity Professional Certificate
