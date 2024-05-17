@@ -11,6 +11,7 @@ Cybersecurity Professional
 
 
 <h2> **Certificates & Certifications**</h2>
+
 CompTIA Security + ― In process
 
 Google Cybersecurity Professional Certificate
