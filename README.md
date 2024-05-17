@@ -12,7 +12,7 @@ My journey has taken many twists and turns. I have a broad view of the many topi
 |**Skill**                                         |**Associated Project**                               |
 |--------------------------------------------------|-----------------------------------------------------|
 |Cyber Security Audit Questions for Stakeholders   |  https://github.com/MTully42/GRC-CIA-Triad-Protection-Write-up<a>|                           
-|RAID I  Configuration                             |
+|RAID I  Configuration                             |  https://github.com/MTully42/Configure-RAID-1
 
 <h2>👨‍💻 **Cyber Security Projects:**</h2>
 
