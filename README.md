@@ -31,12 +31,10 @@ The Definitive GRC Master Analyst Class Certificate
 
 Cyber Security Governance, Risk, and Compliance (GRC) Mastery Certificate
 
-CompTIA Security + ― In process
-
 Google Cybersecurity Professional Certificate
 
-Microsoft Cybersecurity Analyst Certificate ― In Process
-   
-THM SOC Level I Pathway
+Google IT Support Certificate
+
+Six Sigma White Belt 
  
 
