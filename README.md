@@ -15,7 +15,8 @@ My journey has taken many twists and turns. I have a broad view of topics encoun
 
 <h2>👨‍💻 **Cyber Security Projects:**</h2>
 
-1. https://github.com/MTully42/GRC-CIA-Triad-Protection-Write-up 
+1. https://github.com/MTully42/GRC-CIA-Triad-Protection-Write-up
+2. https://www.linkedin.com/in/michael-c-tully/
                                      
 
 
